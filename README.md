@@ -1,2 +1,2 @@
 ### Hi there 👋
-I am a PhD student majoring in Robotics and Mechatronics Engineering. My background is in Mechanical Engineering, and my specialty lies in the design of Medical Robots.
+I am a PhD student majoring in Robotics and Mechatronics Engineering. I am a Mechanical Engineering graduate, and my specialty lies in the design of Medical Robots.
