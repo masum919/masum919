@@ -1,2 +1,2 @@
 ### Hi there 👋
-I am a PhD student majoring in Robotics and Mechatronics Engineering. I am an ardent learner of robotics, and my specialty lies in the design of Medical Robots.
+PhD student engineering the mechanics behind medical robots. I design, simulate, and optimize robotic systems for surgical assistance. Passionate about collaborating across disciplines to transform healthcare robotics. Outside the lab, I enjoy taking long walks and reading books. 
