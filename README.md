@@ -1,1 +1,1 @@
-PhD student engineering the mechanics behind medical robots. I design, simulate, and optimize robotic systems for surgical assistance. Passionate about collaborating across disciplines to transform healthcare robotics. Outside the lab, I enjoy taking long walks and reading books. 
+A robotics student with a Mechanical Engineering core. My interests involve designing, simulating, and optimizing robotic systems for various applications. Passionate about collaborating across disciplines. Outside the lab, I enjoy taking long walks and reading books. 
