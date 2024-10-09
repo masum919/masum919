@@ -1,1 +1,1 @@
-A robotics student with a Mechanical Engineering core. My interests involve designing, simulating, and optimizing robotic systems for various applications. Passionate about collaborating across disciplines. Outside the lab, I enjoy taking long walks and reading books. 
+I am a learner of Robotics with a Mechanical Enginnering core. My interests involve designing, simulating, and optimizing robotic systems for various applications. Outside the lab, I enjoy taking long walks and reading books. 
