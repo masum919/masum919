@@ -1,1 +1,1 @@
-I am a learner of Robotics with a Mechanical Enginnering core. My interests involve designing, simulating, and optimizing robotic systems for various applications. Outside the lab, I enjoy taking long walks and reading books. 
+Mechanical Engineering graduate building Robots.
